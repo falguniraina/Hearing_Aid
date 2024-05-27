@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "key": "ricS",
+            "label": "AX RIC-S",
+            "imgUrl": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/carbonblue-silver.png"
+        },
+        {
+            "key": "ricR",
+            "label": "AX RIC-R",
+            "imgUrl": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/white-silver-hear.png"
+        },
+        {
+            "key": "Xric",
+            "label": "X-RIC",
+            "imgUrl": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/graphit-hear.png"
+        },
+        {
+            "key": "itcR",
+            "label": " AX ITC-R",
+            "imgUrl": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/graphit-hear.png"
+        },
+        {
+            "key": "Xcic",
+            "label": "X CIC",
+            "imgUrl": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/silver-black-hear.png"
+        },
+        {
+            "key": "XricS",
+            "label": "X RIC-S",
+            "imgUrl": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/white-silver-hear.png"
+        }
+    ]
+}
